@@ -33,3 +33,7 @@ Axios를 사용하여 서버와 비동기통신하는 방법을 배웁니다.
 
 - '본인' 레포지토리에 pull request를 생성해주세요!
 - 만들어진 PR 링크를 Lioz에 제출해주세요 !
+
+## 📹실행 영상
+https://github.com/user-attachments/assets/7bf41c71-3bfa-42c6-8216-b37d0d2e3f3b
+
